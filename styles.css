@@ -1,0 +1,88 @@
+/* Estilos globais do corpo da página */
+body {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    user-select: none;
+}
+body.dark-theme {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+body.light-theme {
+    background-color: #ffffff;
+    color: #000000;
+}
+canvas {
+    border: 1px solid;
+    display: block;
+    margin: 20px auto;
+    touch-action: none;
+}
+.dark-theme canvas {
+    background-color: #2a2a2a;
+    border-color: #ffffff;
+}
+.light-theme canvas {
+    background-color: #f0f0f0;
+    border-color: #000000;
+}
+#gameIntro, #gameMenu, #gameOver {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 500px;
+}
+.dark-theme #gameIntro, .dark-theme #gameMenu, .dark-theme #gameOver {
+    background: rgba(0, 0, 0, 0.9);
+    color: #ffffff;
+}
+.light-theme #gameIntro, .light-theme #gameMenu, .light-theme #gameOver {
+    background: rgba(255, 255, 255, 0.9);
+    color: #000000;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 5px;
+}
+.dark-theme button {
+    background-color: #444;
+    color: #fff;
+    border: 1px solid #fff;
+}
+.light-theme button {
+    background-color: #ddd;
+    color: #000;
+    border: 1px solid #000;
+}
+#achievementsList {
+    text-align: left;
+    margin-top: 20px;
+}
+#achievementsList li.locked {
+    color: gray;
+}
+#notification {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px;
+    border-radius: 5px;
+}
+.dark-theme #notification {
+    background: rgba(0, 0, 0, 0.7);
+    color: #ffffff;
+}
+.light-theme #notification {
+    background: rgba(255, 255, 255, 0.7);
+    color: #000000;
+}

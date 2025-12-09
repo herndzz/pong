@@ -1,4 +1,4 @@
-# 🏓 Pong Game Avançado
+# Pong Game Avançado
 
 <div align="center">
 
@@ -9,52 +9,52 @@
 
 **Uma versão moderna e avançada do clássico jogo Pong com recursos incríveis!**
 
-[🎮 Jogar Agora](#como-jogar) • [⚙️ Características](#características) • [🏆 Conquistas](#sistema-de-conquistas) • [📱 Suporte Mobile](#suporte-mobile)
+[Jogar Agora](#como-jogar) • [Características](#características) • [Conquistas](#sistema-de-conquistas) • [Suporte Mobile](#suporte-mobile)
 
 </div>
 
 ---
 
-## 🌟 Características
+## Características
 
-### 🎮 **Jogabilidade Aprimorada**
-- ✨ **Gráficos modernos** com partículas e efeitos visuais
-- 🌈 **Rastro colorido** da bola que muda com a velocidade
-- ⭐ **Fundo estrelado** animado e cintilante
-- 🎨 **Temas claro e escuro** alteráveis
+### **Jogabilidade Aprimorada**
+- **Gráficos modernos** com partículas e efeitos visuais
+- **Rastro colorido** da bola que muda com a velocidade
+- **Fundo estrelado** animado e cintilante
+- **Temas claro e escuro** alteráveis
 
-### 🤖 **IA Adaptativa**
-- 🧠 **Inteligência artificial** que se adapta ao seu desempenho
-- 📊 **Dificuldade dinâmica** baseada na sua performance
-- 🎯 **Três níveis de dificuldade**: Fácil, Médio e Difícil
+### **IA Adaptativa**
+- **Inteligência artificial** que se adapta ao seu desempenho
+- **Dificuldade dinâmica** baseada na sua performance
+- **Três níveis de dificuldade**: Fácil, Médio e Difícil
 
-### 🏆 **Sistema de Conquistas**
-- 🎖️ **10 conquistas únicas** para desbloquear
-- 🏅 Desde pontuador iniciante até lenda do Pong
-- 🚀 Desafios especiais como "Demônio da Velocidade"
-- ⏱️ Conquistas baseadas em tempo e performance
+### **Sistema de Conquistas**
+- **10 conquistas únicas** para desbloquear
+- Desde pontuador iniciante até lenda do Pong
+- Desafios especiais como "Demônio da Velocidade"
+- Conquistas baseadas em tempo e performance
 
-### 📊 **Estatísticas Completas**
-- 📈 **Acompanhamento de progresso** em tempo real
-- ⚡ **Sistema de combo** com multiplicadores
-- 🎯 **Velocidade máxima** da bola registrada
-- 📋 **Histórico de jogos** e recordes pessoais
+### **Estatísticas Completas**
+- **Acompanhamento de progresso** em tempo real
+- **Sistema de combo** com multiplicadores
+- **Velocidade máxima** da bola registrada
+- **Histórico de jogos** e recordes pessoais
 
-### 🔊 **Sistema de Áudio**
-- 🎵 **Efeitos sonoros** procedurais
-- 🔊 **Sons diferentes** para cada ação (rebote, pontuação, conquistas)
-- 🔇 **Controle de volume** ativável/desativável
+### **Sistema de Áudio**
+- **Efeitos sonoros** procedurais
+- **Sons diferentes** para cada ação (rebote, pontuação, conquistas)
+- **Controle de volume** ativável/desativável
 
-### 📱 **Suporte Mobile**
-- 👆 **Controles por toque** otimizados
-- 📱 **Interface responsiva** para todos os dispositivos
-- 🖱️ **Toque duplo** para pausar o jogo
+### **Suporte Mobile**
+- **Controles por toque** otimizados
+- **Interface responsiva** para todos os dispositivos
+- **Toque duplo** para pausar o jogo
 
 ---
 
-## 🎮 Como Jogar
+## Como Jogar
 
-### 🖥️ **Controles PC**
+### **Controles PC**
 | Tecla | Ação |
 |-------|------|
 | `↑` / `↓` | Mover raquete |
@@ -62,12 +62,12 @@
 | `M` | Ativar/Desativar som |
 | `ESC` | Voltar ao menu |
 
-### 📱 **Controles Mobile**
+### **Controles Mobile**
 - **Toque e arraste** para mover a raquete
 - **Toque duplo** na tela para pausar
 - **Interface tátil** otimizada
 
-### 🎯 **Objetivo**
+### **Objetivo**
 - Rebata a bola com sua raquete (esquerda)
 - Faça a bola passar pela raquete da IA (direita)
 - A cada **5 pontos**, o nível aumenta
@@ -75,29 +75,29 @@
 
 ---
 
-## 🏆 Sistema de Conquistas
+## Sistema de Conquistas
 
 <details>
-<summary><strong>🎖️ Ver todas as conquistas (10 disponíveis)</strong></summary>
+<summary><strong>Ver todas as conquistas (10 disponíveis)</strong></summary>
 
 | Conquista | Descrição | Dificuldade |
 |-----------|-----------|-------------|
-| 🥉 **Pontuador Iniciante** | Marque 10 pontos em uma partida | ⭐ |
-| 🥈 **Pontuador Intermediário** | Marque 25 pontos em uma partida | ⭐⭐ |
-| 🥇 **Pontuador Avançado** | Marque 50 pontos em uma partida | ⭐⭐⭐ |
-| 👑 **Mestre dos Pontos** | Marque 100 pontos em uma partida | ⭐⭐⭐⭐ |
-| 📊 **Mestre de Níveis** | Alcance o nível 3 | ⭐⭐ |
-| 🎖️ **Veterano** | Alcance o nível 5 | ⭐⭐⭐ |
-| 🏆 **Lenda** | Alcance o nível 10 | ⭐⭐⭐⭐⭐ |
-| ⚡ **Demônio da Velocidade** | Alcance velocidade máxima da bola | ⭐⭐⭐ |
-| ⏱️ **Sobrevivente** | Jogue por mais de 2 minutos | ⭐⭐⭐ |
-| 🎯 **Início Perfeito** | Marque 5 pontos seguidos no início | ⭐⭐ |
+| **Pontuador Iniciante** | Marque 10 pontos em uma partida |  |
+| **Pontuador Intermediário** | Marque 25 pontos em uma partida |  |
+| **Pontuador Avançado** | Marque 50 pontos em uma partida |  |
+| **Mestre dos Pontos** | Marque 100 pontos em uma partida |  |
+| **Mestre de Níveis** | Alcance o nível 3 |  |
+| **Veterano** | Alcance o nível 5 |  |
+| **Lenda** | Alcance o nível 10 |  |
+| **Demônio da Velocidade** | Alcance velocidade máxima da bola |  |
+| **Sobrevivente** | Jogue por mais de 2 minutos |  |
+| **Início Perfeito** | Marque 5 pontos seguidos no início |  |
 
 </details>
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5 Canvas** - Renderização gráfica
 - **JavaScript ES6+** - Lógica do jogo e POO
@@ -107,138 +107,122 @@
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 pong/
-├── index.html          # Arquivo principal do jogo
-├── README.md          # Este arquivo
-└── [assets/]          # (Futuro: imagens e sons)
+├── index.html                 # HTML com UI e canvas
+├── styles.css                 # Estilos e temas
+├── src/                       # Código modular (POO)
+│   ├── main.js                # Entry point (ESM)
+│   ├── game.js                # Classe Game
+│   ├── config.js              # Constantes de configuração
+│   ├── storage.js             # Persistência (LocalStorage)
+│   ├── audio.js               # Web Audio API (sons)
+│   ├── achievement.js         # Conquistas e gerenciador
+│   ├── particle.js            # Partículas
+│   └── ball.js, paddle.js     # Entidades do jogo
+└── README.md                  # Este arquivo
 ```
 
 ---
 
-## 🚀 Como Executar
+## Personalização
 
-### 📥 **Método 1: Download Direto**
-1. Baixe o arquivo `index.html`
-2. Abra em qualquer navegador moderno
-3. Comece a jogar! 🎮
+### **Temas Disponíveis**
+- **Tema Escuro** (padrão) - Ideal para jogos noturnos
+- **Tema Claro** - Perfeito para ambiente iluminado
 
-### 🌐 **Método 2: Servidor Local**
-```bash
-# Clone ou baixe o projeto
-cd pong
-
-# Inicie um servidor HTTP simples
-python -m http.server 8000
-# ou
-npx serve .
-
-# Acesse: http://localhost:8000
-```
-
-### 🔗 **Método 3: GitHub Pages**
-Hospede gratuitamente no GitHub Pages para acesso online!
+### **Configurações Ajustáveis**
+- Sistema de som ligado/desligado
+- IA adaptativa ativada/desativada
+- Três níveis de dificuldade
 
 ---
 
-## 🎨 Personalização
-
-### 🌈 **Temas Disponíveis**
-- 🌙 **Tema Escuro** (padrão) - Ideal para jogos noturnos
-- ☀️ **Tema Claro** - Perfeito para ambiente iluminado
-
-### ⚙️ **Configurações Ajustáveis**
-- 🔊 Sistema de som ligado/desligado
-- 🤖 IA adaptativa ativada/desativada
-- 🎯 Três níveis de dificuldade
-
----
-
-## 📊 Estatísticas Detalhadas
+## Estatísticas Detalhadas
 
 O jogo rastreia automaticamente:
 
-- 📈 **Pontuação atual e recorde**
-- 🎯 **Nível alcançado**
-- ⏱️ **Tempo de jogo**
-- 🔥 **Sistema de combo**
-- ⚡ **Velocidade máxima da bola**
-- 🎮 **Total de jogos realizados**
-- 🏓 **Número de rebotes**
+- **Pontuação atual e recorde**
+- **Nível alcançado**
+- **Tempo de jogo**
+- **Sistema de combo**
+- **Velocidade máxima da bola**
+- **Total de jogos realizados**
+- **Número de rebotes**
 
 ---
 
-## 🔧 Recursos Técnicos
+## Recursos Técnicos
 
-### 🎨 **Gráficos Avançados**
+### **Gráficos Avançados**
 - Sistema de partículas para efeitos visuais
 - Rastro da bola com degradê colorido
 - Animações suaves com requestAnimationFrame
 - Fundo estrelado com efeito de cintilação
 
-### 🧠 **IA Inteligente**
+### **IA Inteligente**
 - Algoritmo adaptativo baseado em performance
 - Dificuldade ajustável em tempo real
 - Comportamento humanizado com margem de erro
 
-### 💾 **Persistência de Dados**
+### **Persistência de Dados**
 - Salvamento automático de estatísticas
 - Conquistas desbloqueadas permanentemente
 - Configurações personalizadas mantidas
 
 ---
 
-## 🌟 Destaques Especiais
+## Destaques Especiais
 
-### ✨ **Inovação**
+### **Inovação**
 - Primeiro Pong com IA verdadeiramente adaptativa
 - Sistema de conquistas gamificado
 - Interface moderna e responsiva
 
-### 🏆 **Qualidade**
+### **Qualidade**
 - Código limpo e bem documentado
 - Arquitetura orientada a objetos
 - Performance otimizada (60 FPS)
 
-### 🎮 **Experiência do Usuário**
+### **Experiência do Usuário**
 - Curva de aprendizado progressiva
 - Feedback visual e sonoro imersivo
 - Suporte completo a dispositivos móveis
 
 ---
 
-## 📝 Notas da Versão
+## Notas da Versão
 
-### 🆕 **Versão Atual - Estável**
-- ✅ Removidos power-ups instáveis
-- ✅ Lógica de colisão aprimorada
-- ✅ Sistema de conquistas completo
-- ✅ IA adaptativa funcional
-- ✅ Interface responsiva
-- ✅ Som procedural implementado
+### **Versão Atual - Estável**
+- Removidos power-ups instáveis
+- Lógica de colisão aprimorada
+- Sistema de conquistas completo
+- IA adaptativa funcional
+- Interface responsiva
+- Som procedural implementado
 
-### 🔄 **Futuras Melhorias**
-- 🎵 Trilha sonora ambiente
-- 🏅 Tabela de líderes online
-- 🎨 Mais temas visuais
-- 🌐 Modo multiplayer local
+### **Futuras Melhorias**
+- Trilha sonora ambiente
+- Tabela de líderes online
+- Mais temas visuais
+- Modo multiplayer local
 
 ---
 
-## 🤝 Contribuição
+## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para:
 
-- 🐛 Reportar bugs
-- 💡 Sugerir novas funcionalidades
-- 🎨 Propor melhorias visuais
-- 📚 Melhorar a documentação
+- Reportar bugs
+- Sugerir novas funcionalidades
+- Propor melhorias visuais
+- Melhorar a documentação
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto é de código aberto e está disponível sob a licença MIT.
 
@@ -246,8 +230,8 @@ Este projeto é de código aberto e está disponível sob a licença MIT.
 
 <div align="center">
 
-**Desenvolvido com ❤️ para os amantes de jogos clássicos**
+**Desenvolvido para os amantes de jogos clássicos**
 
-🏓 **Divirta-se jogando!** 🏓
+**Divirta-se jogando!**
 
 </div>
